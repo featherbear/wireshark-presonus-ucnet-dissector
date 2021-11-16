@@ -1,0 +1,6 @@
+ucnet
+
+user logged in rcx 0x18000695e
+
+0x18001df80             call to recvfrom()
+0x18001de70             call to recv()
